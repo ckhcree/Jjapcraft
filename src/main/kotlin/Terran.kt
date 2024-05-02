@@ -1,13 +1,13 @@
 package org.example
 
-class Zealot() {
-    val style: String = "pretty"
-    var height: Int = 215
-    var weight: Int = 40
-    val wallet: Int = 500
+class Terran {
+    val style: String = "cute"
+    var height: Int = 180
+    var weight: Int = 60
+    val wallet: Int = 200
 
     fun move() {
-//fly
+//run
     }
 
     fun attack(): Int {
@@ -19,11 +19,11 @@ class Zealot() {
     }
 
     fun eat(food: String) {
-//cucumber
+//kkagdugi
     }
 
     fun jaetekeu(money: String): Int {
-//gold
+//mineral
         return wallet + 200
     }
 
