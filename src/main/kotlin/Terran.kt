@@ -24,7 +24,7 @@ class Terran {
 
     fun jaetekeu(money: String): Int {
 //mineral
-        return wallet + 200
+        return wallet + 50
     }
 
     fun info() {

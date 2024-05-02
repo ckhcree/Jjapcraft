@@ -7,11 +7,6 @@ package org.example
 //    var weight: Int = 0,
 //    var wallet: Int = 0,
 //) {
-//
-//
-//    val food: String = ""
-//    val money: String = ""
-//
 //    fun move() {
 //    }
 //

@@ -24,7 +24,7 @@ class Zergling {
 
     fun jaetekeu(money: String): Int {
 //bitcoin
-        return wallet + 200
+        return wallet + 9999
     }
 
     fun info() {
