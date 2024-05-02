@@ -4,7 +4,7 @@ class Zealot() {
     val style: String = "pretty"
     var height: Int = 215
     var weight: Int = 40
-    val wallet: Int = 500
+    var wallet: Int = 500
 
     fun move() {
 //fly

@@ -4,7 +4,7 @@ class Terran {
     val style: String = "cute"
     var height: Int = 180
     var weight: Int = 60
-    val wallet: Int = 200
+    var wallet: Int = 200
 
     fun move() {
 //run

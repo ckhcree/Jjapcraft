@@ -4,7 +4,7 @@ class Zergling {
     val style: String = "cheongsun"
     var height: Int = 160
     var weight: Int = 90
-    val wallet: Int = 900
+    var wallet: Int = 900
 
     fun move() {
 //swim

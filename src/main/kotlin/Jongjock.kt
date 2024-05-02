@@ -5,7 +5,7 @@ package org.example
 //    val style: String = "",
 //    var height: Int = 0,
 //    var weight: Int = 0,
-//    val wallet: Int = 0,
+//    var wallet: Int = 0,
 //) {
 //
 //
